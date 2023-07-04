@@ -1,3 +1,3 @@
 # CS112
 CS112 Projects
-/n Will work on creating updated files that completely finish the assignment(s).
+Will work on creating updated files that completely finish the assignment(s).
